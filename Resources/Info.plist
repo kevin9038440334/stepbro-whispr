@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.susurro.Susurro</string>
+	<key>CFBundleName</key>
+	<string>stepbro whispr</string>
+	<key>CFBundleDisplayName</key>
+	<string>stepbro whispr</string>
+	<key>CFBundleExecutable</key>
+	<string>StepbroWhispr</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright 2026 kevin9038440334. PolyForm Noncommercial License 1.0.0.</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>es</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>27.0</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>stepbro whispr usa el micrófono para transcribir lo que dictas. Con el motor de Apple, el audio no sale de tu Mac; si eliges Groq en Ajustes, se envía a Groq para transcribirlo.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>stepbro whispr convierte tu voz en texto con el reconocimiento de voz de Apple, directamente en tu Mac.</string>
+</dict>
+</plist>
