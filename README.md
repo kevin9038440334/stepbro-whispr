@@ -27,6 +27,11 @@ You can run it fully on your Mac with Apple's speech recognition and Apple Intel
 
 The interface is in Spanish. Dictation works in any language supported by Apple's speech recognizer.
 
+<p align="center">
+  <img src="docs/screenshots/home.png" width="49%" alt="Home screen">
+  <img src="docs/screenshots/welcome.png" width="49%" alt="Welcome screen">
+</p>
+
 ## Features
 
 - **Dictate anywhere.** Hold the hotkey (Fn by default), speak, release. The text is pasted at the cursor and your clipboard is restored afterwards.

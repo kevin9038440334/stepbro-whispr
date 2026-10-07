@@ -25,6 +25,11 @@ stepbro whispr es una app nativa de macOS escrita en Swift y SwiftUI, con interf
 
 Puede funcionar entera en tu Mac, con el reconocimiento de voz de Apple y Apple Intelligence, o con tu propia clave de Groq para usar Whisper y modelos de lenguaje más grandes en la nube.
 
+<p align="center">
+  <img src="docs/screenshots/home.png" width="49%" alt="Pantalla de inicio">
+  <img src="docs/screenshots/welcome.png" width="49%" alt="Pantalla de bienvenida">
+</p>
+
 ## Funciones
 
 - **Dicta en cualquier sitio.** Mantén la tecla (Fn por defecto), habla y suelta. El texto se pega donde está el cursor y el portapapeles vuelve a como estaba.
