@@ -130,5 +130,19 @@ Para un uso comercial, contacta con el autor a través de [GitHub](https://githu
 
 ## Autores
 
-- [kevin9038440334](https://github.com/kevin9038440334)
-- [srdavo](https://github.com/srdavo)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kevin9038440334">
+        <img src="https://github.com/kevin9038440334.png?size=160" width="80" alt="kevin9038440334"><br>
+        <sub><b>kevin9038440334</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/srdavo">
+        <img src="https://github.com/srdavo.png?size=160" width="80" alt="srdavo"><br>
+        <sub><b>srdavo</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
