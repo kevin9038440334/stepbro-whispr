@@ -130,6 +130,7 @@ You may use, study, modify and share it for any noncommercial purpose: personal 
 
 For commercial use, contact the author through [GitHub](https://github.com/kevin9038440334).
 
-## Author
+## Authors
 
-Created by [kevin9038440334](https://github.com/kevin9038440334).
+- [kevin9038440334](https://github.com/kevin9038440334)
+- [srdavo](https://github.com/srdavo)

@@ -128,6 +128,7 @@ Puedes usarla, estudiarla, modificarla y compartirla para cualquier fin no comer
 
 Para un uso comercial, contacta con el autor a través de [GitHub](https://github.com/kevin9038440334).
 
-## Autor
+## Autores
 
-Creada por [kevin9038440334](https://github.com/kevin9038440334).
+- [kevin9038440334](https://github.com/kevin9038440334)
+- [srdavo](https://github.com/srdavo)
