@@ -1,4 +1,4 @@
-.PHONY: build run install test clean
+.PHONY: build run install dmg test clean
 
 APP = build/stepbro whispr.app
 
@@ -15,6 +15,9 @@ install: build
 	@cp -R "$(APP)" /Applications/
 	@open "/Applications/stepbro whispr.app"
 	@echo "Instalado en /Applications"
+
+dmg:
+	@./scripts/make-dmg.sh
 
 test:
 	@swift test --build-system native
